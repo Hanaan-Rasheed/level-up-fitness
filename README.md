@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Level Up Fitness
 
 A responsive fitness/gym website recreated from the original project screenshots.
@@ -47,3 +48,7 @@ Import the GitHub repository into Vercel. No build command is required because t
 ## Note
 
 The project uses online Unsplash images and Font Awesome CDN icons. An internet connection is required for those external assets.
+=======
+# level-up-fitness
+Empty repository for level-up-fitness name
+>>>>>>> 041ff6f364cbd8ce639748facdecbc33d823622b
